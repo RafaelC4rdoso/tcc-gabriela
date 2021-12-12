@@ -56,6 +56,8 @@
                         switch($_REQUEST['action']) {
                             case 'home':
                                 $userController -> home();
+                            case 'openPontosTuristicos':
+                                $userController -> openPontosTuristicos();
                         }
                     }
             }

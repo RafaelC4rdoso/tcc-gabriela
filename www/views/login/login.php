@@ -6,7 +6,7 @@
                 <input type="text" class="fadeIn second" name="email" placeholder="Digite o email">
             </div>
             <div class="form-item">
-                <input type="text" class="fadeIn third" name="password" placeholder="Digite sua senha">
+                <input type="password" class="fadeIn third" name="password" placeholder="Digite sua senha">
             </div>
             <input class="fadeIn fourth" type="submit" name="Enviar" value="Fazer Login">
         </form>

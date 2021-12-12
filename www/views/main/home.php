@@ -1,5 +1,14 @@
 <div class="container-fluid p-5">
     <div class="row">
+        <nav class="navbar navbar-expand-lg navbar-light bg-green">
+            <div class="container-fluid justify-content-center">
+                <div class="row align-middle">
+                    <div class="col-12 border-green">
+                        <h1 class="title">SMT</h1>
+                    </div>
+                </div>
+            </div>
+        </nav>
         <div class="home d-flex flex-row">
             <img class="img img-thumbnail img-fluid rounded float-start" src="assets/images/mapa.jpg" alt="Mapa Mampituba">
             <div class="row-text">
@@ -22,4 +31,13 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid justify-content-center">
+    <div class="row">
+        <div class="col-12 d-flex border-green align-bottom justify-content-center">
+            <a href="?controller=user&action=openPontosTuristicos">
+                <h1 class="title">Veja os Pontos Turísticos</h1>
+            </a>
+        </div>
+    </div>
+</div>
 </div>
