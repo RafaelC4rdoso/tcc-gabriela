@@ -20,13 +20,11 @@
                     Locais que você precisa conhecer quando passar por aqui:
                 </p>
                 <ul class="list-group">
-                    <li class="list-group-item">Cachoeira dos Borges</li>
-                    <li class="list-group-item">Cascata Alto do Rio de Dentro</li>
-                    <li class="list-group-item">Mirante de Belvedere Costãozinho</li>
-                    <li class="list-group-item">Pedra Branca</li>
-                    <li class="list-group-item">Santuário Nossa Senhora Aparecida</li>
-                    <li class="list-group-item">Sítio Estância Tropeira</li>
-                    <li class="list-group-item">Trilha do Morro Bicudo</li>
+                    <li class="list-group-item">Cascata dos Borges</li>
+                    <li class="list-group-item">Cascata Rio de Dentro</li>
+                    <li class="list-group-item">Cascata do Macaco</li>
+                    <li class="list-group-item">Cascata do Silveirão</li>
+                    <li class="list-group-item">Cascata da Jovita</li>
                 </ul>
             </div>
         </div>
